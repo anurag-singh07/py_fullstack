@@ -1,0 +1,28 @@
+2026-04-08 06:27:12.258657 - Scraped URL: https://www.amazon.in/dp/B0C1H26C46
+2026-04-08 06:27:16.164000 - Analytics viewed
+2026-04-08 06:27:16.167102 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:27:31.620635 - Scraped URL: https://www.amazon.in/dp/B0C1H26C46
+2026-04-08 06:27:34.063682 - Analytics viewed
+2026-04-08 06:27:34.066653 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:30:16.399464 - Analytics viewed
+2026-04-08 06:30:16.401085 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:31:15.551529 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:31:18.985077 - Analytics viewed
+2026-04-08 06:31:18.989015 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:33:47.942319 - Analytics viewed
+2026-04-08 06:33:47.943859 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:43:12.835068 - Scraped URL: https://www.python.org/
+2026-04-08 06:43:21.913995 - Analytics viewed
+2026-04-08 06:43:21.916305 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:45:33.197951 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:45:45.700562 - Analytics viewed
+2026-04-08 06:45:45.702955 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:45:50.163047 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:45:51.091094 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:45:57.737005 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:46:00.052331 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:46:02.019876 - Scraped URL: https://www.flipkart.com/redmi-12-5g-icy-silver-128-gb/p/itm8b3d0c8f3b1a1
+2026-04-08 06:47:13.263401 - Analytics viewed
+2026-04-08 06:47:13.266088 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
+2026-04-08 06:48:45.218382 - Analytics viewed
+2026-04-08 06:48:45.221026 - Analytics Error: 'NoneType' object has no attribute 'fetch_all'
