@@ -39,3 +39,5 @@ class Analyzer:
         if df.empty:
             return []
         return df.sort_values("price").head(5).to_dict(orient="records")
+    #hello
+    
